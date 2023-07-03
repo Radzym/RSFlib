@@ -4,7 +4,7 @@ Methods and constants that i found useful at university.
 ## CalcFunction
 Function for statistical analysis and data conversions. 
 
-**cart2pol** - transforms carthesian coordinates to polar
+**cart2pol** - transforms carthesian coordinates to polar \n
 **fit_uncertainty** - returns stdev from, used for curve fitter
 **uncertainty** - some base analytics of measurement we used, can return, print and plot results
 **GetMinIndex** - returns index/indexes of min value/values(if more), **returns list not just int!!!**
